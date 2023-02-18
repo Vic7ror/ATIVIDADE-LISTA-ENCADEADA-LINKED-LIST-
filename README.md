@@ -1,6 +1,5 @@
 # ATIVIDADE: LISTA ENCADEADA (LINKEDLIST)
-Lenguage: C#
-----------------------------------------------------------------------------------------------
+
 1. Crie um menu para o programa com as opções:
 1) Inserir
 2) Pesquisar
@@ -14,3 +13,5 @@ classe Lista. Na opção 1, além de informar uma chave, o usuário deverá info
 também um nome.
 4. Na pesquisa, se a chave procurada for encontrada, o programa deverá imprimir o
 nome correspondente. Dê ao usuário a opção de remover o nó da lista.
+----------------------------------------------------------------------------------------------
+Lenguage: C#
